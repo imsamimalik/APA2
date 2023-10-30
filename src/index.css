@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.q2 {
+    font-family: "Varela Round", sans-serif;
+}
